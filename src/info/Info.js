@@ -1,9 +1,6 @@
 import self from "../img/SappySeal.jpeg";
 import mars from "../img/space-mission.jpeg";
 import mcu from "../img/mcu-img.jpeg";
-import mock3 from "../img/mock3.png";
-import mock4 from "../img/mock4.png";
-import mock5 from "../img/mock5.png";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -24,7 +21,7 @@ of what each of the values mean.
 export const info = {
   firstName: "Jesse",
   lastName: "Lloyd",
-  initials: "jl", // the example uses first and last, but feel free to use three or more if you like.
+  initials: "JL", // the example uses first and last, but feel free to use three or more if you like.
   position: "a Full Stack Developer",
   selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
   gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
@@ -45,16 +42,6 @@ export const info = {
     },
   ],
   socials: [
-    {
-      link: "https://facebook.com",
-      icon: "fa fa-facebook",
-      label: "facebook",
-    },
-    {
-      link: "https://instagram.com",
-      icon: "fa fa-instagram",
-      label: "instagram",
-    },
     {
       link: "https://github.com/jlloyd0430",
       icon: "fa fa-github",
