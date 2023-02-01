@@ -1,6 +1,6 @@
 import self from "../img/SappySeal.jpeg";
 import mars from "../img/space-mission.jpeg";
-import mock2 from "../img/mock2.png";
+import mcu from "../img/mcu-img.jpeg";
 import mock3 from "../img/mock3.png";
 import mock4 from "../img/mock4.png";
 import mock5 from "../img/mock5.png";
@@ -120,7 +120,7 @@ export const info = {
       title: "MCU-app",
       live: " https://mcu-front-end-ruj1.onrender.com",
       source: "https://github.com/jlloyd0430/MCU-front-end",
-      image: mock2,
+      image: mcu,
     },
     {
       title: "Project 3",

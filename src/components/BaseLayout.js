@@ -55,6 +55,8 @@ export default function BaseLayout() {
             py={"1.5rem"}
             sx={{ opacity: 0.7 }}
             width={"100%"}
+            margin={"auto"}
+            // border={"1px solid"}
           ></Box>
         </Grid>
       </Grid>
