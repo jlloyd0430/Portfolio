@@ -1,7 +1,7 @@
 import self from "../img/SappySeal.jpeg";
 import mars from "../img/space-mission.jpeg";
 import mcu from "../img/mcu-img.jpeg";
-import crypto from "../img/crypto-img.jpeg";
+import crypto from "../img/crypto.jpg";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
