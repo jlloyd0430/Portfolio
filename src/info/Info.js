@@ -1,6 +1,7 @@
 import self from "../img/SappySeal.jpeg";
 import mars from "../img/space-mission.jpeg";
 import mcu from "../img/mcu-img.jpeg";
+import crypto from "../img/crypto-img.jpeg";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -60,7 +61,7 @@ export const info = {
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
-  bio: "Hello! I'm Jesse.Im a driven self-starter with professional adaptability, full-stack software developer, Eager to grow and learn more about the tech industry.",
+  bio: "Hello! I'm Jesse.Im a driven self-starter with professional adaptability, full-stack software developer, Eager to grow and learn more about the web3 and tech industry.",
   skills: {
     proficientWith: [
       "javascript",
@@ -108,6 +109,12 @@ export const info = {
       live: " https://mcu-front-end-ruj1.onrender.com",
       source: "https://github.com/jlloyd0430/MCU-front-end",
       image: mcu,
+    },
+    {
+      title: "Crypto-Search-App",
+      live: " https://crypto-search-app.onrender.com/",
+      source: "https://github.com/jlloyd0430/Crypto-App",
+      image: crypto,
     },
   ],
 };
