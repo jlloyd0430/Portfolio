@@ -2,6 +2,7 @@ import self from "../img/SappySeal.jpeg";
 import mars from "../img/space-mission.jpeg";
 import mcu from "../img/mcu-img.jpeg";
 import crypto from "../img/crypto.jpeg";
+import cilica from "../img/cilica-img.jpeg";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -109,6 +110,12 @@ export const info = {
       live: " https://mcu-front-end-ruj1.onrender.com",
       source: "https://github.com/jlloyd0430/MCU-front-end",
       image: mcu,
+    },
+    {
+      title: "Cilica",
+      live: "https://cilica-front-end.onrender.com/ ",
+      source: "https://github.com/jlloyd0430/Cilica.io-front-end",
+      image: cilica,
     },
     {
       title: "Crypto-Search-App",
