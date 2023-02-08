@@ -67,7 +67,10 @@ export const info = {
   skills: {
     proficientWith: [
       "javascript",
-      "react",
+      "node.js",
+      "express.js",
+      "MongoDB",
+      "react.js",
       "git",
       "github",
       "bootstrap",
@@ -76,7 +79,7 @@ export const info = {
       "figma",
       "SQL",
     ],
-    exposedTo: ["nodejs", "python", "adobe illustrator"],
+    exposedTo: ["Typescrypt", "Tailwindcss", "python", "adobe illustrator"],
   },
   hobbies: [
     {
