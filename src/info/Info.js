@@ -3,6 +3,7 @@ import mars from "../img/space-mission.jpeg";
 import mcu from "../img/mcu-img.jpeg";
 import crypto from "../img/crypto.jpeg";
 import cilica from "../img/Cilica.jpeg";
+import pdf from "../img/resume.png";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -122,6 +123,12 @@ export const info = {
       live: " https://crypto-search-app.onrender.com/",
       source: "https://github.com/jlloyd0430/Crypto-App",
       image: crypto,
+    },
+  ],
+
+  resume: [
+    {
+      image: pdf,
     },
   ],
 };
