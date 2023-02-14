@@ -110,12 +110,6 @@ export const info = {
       image: mars,
     },
     {
-      title: "MCU-app",
-      live: " https://mcu-front-end-ruj1.onrender.com",
-      source: "https://github.com/jlloyd0430/MCU-front-end",
-      image: mcu,
-    },
-    {
       title: "Cilica | Blog-app",
       live: "https://cilica-front-end.onrender.com/ ",
       source: "https://github.com/jlloyd0430/Cilica.io-front-end",
@@ -126,6 +120,12 @@ export const info = {
       live: " https://crypto-search-app.onrender.com/",
       source: "https://github.com/jlloyd0430/Crypto-App",
       image: crypto,
+    },
+    {
+      title: "MCU-app",
+      live: " https://mcu-front-end-ruj1.onrender.com",
+      source: "https://github.com/jlloyd0430/MCU-front-end",
+      image: mcu,
     },
   ],
 
