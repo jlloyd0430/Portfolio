@@ -4,6 +4,7 @@ import mcu from "../img/mcu-img.jpeg";
 import crypto from "../img/crypto.jpeg";
 import cilica from "../img/Cilica.jpeg";
 import pdf from "../img/resume3.png";
+import meme from "../img/memegen.jpeg";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -110,12 +111,6 @@ export const info = {
       image: mars,
     },
     {
-      title: "MCU-app",
-      live: " https://mcu-front-end-ruj1.onrender.com",
-      source: "https://github.com/jlloyd0430/MCU-front-end",
-      image: mcu,
-    },
-    {
       title: "Cilica | Blog-app",
       live: "https://cilica-front-end.onrender.com/ ",
       source: "https://github.com/jlloyd0430/Cilica.io-front-end",
@@ -126,6 +121,18 @@ export const info = {
       live: " https://crypto-search-app.onrender.com/",
       source: "https://github.com/jlloyd0430/Crypto-App",
       image: crypto,
+    },
+    {
+      title: "Meme-Machine",
+      live: "https://meme-maker-rzg7.onrender.com/",
+      source: "https://github.com/jlloyd0430/MemeMaker",
+      image: meme,
+    },
+    {
+      title: "MCU-app",
+      live: " https://mcu-front-end-ruj1.onrender.com",
+      source: "https://github.com/jlloyd0430/MCU-front-end",
+      image: mcu,
     },
   ],
 
