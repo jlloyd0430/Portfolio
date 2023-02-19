@@ -105,7 +105,7 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
-      title: "Space-Mission | ",
+      title: "Space-Mission",
       live: "https://space-mission-xuzu.onrender.com", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/jlloyd0430/Space-Mission", // this should be a link to the **repository** of the project, where the code is hosted.
       image: mars,
@@ -123,7 +123,7 @@ export const info = {
       image: crypto,
     },
     {
-      title: "Meme-Machine",
+      title: "Meme-Dashboard",
       live: " https://meme-maker-rzg7.onrender.com/",
       source: "https://github.com/jlloyd0430/MemeMaker",
       image: meme,
