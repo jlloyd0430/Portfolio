@@ -123,16 +123,16 @@ export const info = {
       image: crypto,
     },
     {
-      title: "Meme-Machine",
-      live: "https://meme-maker-rzg7.onrender.com/",
-      source: "https://github.com/jlloyd0430/MemeMaker",
-      image: meme,
-    },
-    {
       title: "MCU-app",
       live: " https://mcu-front-end-ruj1.onrender.com",
       source: "https://github.com/jlloyd0430/MCU-front-end",
       image: mcu,
+    },
+    {
+      title: "Meme-Machine",
+      live: " https://meme-maker-rzg7.onrender.com/",
+      source: "https://github.com/jlloyd0430/MemeMaker",
+      image: meme,
     },
   ],
 
