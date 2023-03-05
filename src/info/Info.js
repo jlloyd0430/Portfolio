@@ -1,6 +1,5 @@
 import self from "../img/SappySeal.jpeg";
-import mars from "../img/space-mission.jpeg";
-import mcu from "../img/mcu-img.jpeg";
+import mcu from "../img/space-mission.jpeg";
 import crypto from "../img/crypto.jpeg";
 import cilica from "../img/Cilica.jpeg";
 import pdf from "../img/resume3.png";
@@ -106,10 +105,10 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
-      title: "Space-Mission | ",
+      title: "Space-Mission",
       live: "https://space-mission-xuzu.onrender.com", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/jlloyd0430/Space-Mission", // this should be a link to the **repository** of the project, where the code is hosted.
-      image: mars,
+      image: mcu,
     },
     {
       title: "Cilica | Blog-app",
@@ -130,13 +129,7 @@ export const info = {
       image: mungovan,
     },
     {
-      title: "MCU-app",
-      live: " https://mcu-front-end-ruj1.onrender.com",
-      source: "https://github.com/jlloyd0430/MCU-front-end",
-      image: mcu,
-    },
-    {
-      title: "Meme-Machine",
+      title: "Meme-Dashboard",
       live: " https://meme-maker-rzg7.onrender.com/",
       source: "https://github.com/jlloyd0430/MemeMaker",
       image: meme,
