@@ -4,7 +4,7 @@ import crypto from "../img/crypto.jpeg";
 import cilica from "../img/Cilica.jpeg";
 import pdf from "../img/resume3.png";
 import meme from "../img/memegen.jpeg";
-import mungovan from "../img/mungovan.JPG";
+import mungo from "../img/mungovan.jpeg";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -126,7 +126,7 @@ export const info = {
       title: "Mungovan Trucking",
       live: " https://www.mungovan.land/",
       source: "https://github.com/jlloyd0430/Mungovan-Trucking",
-      image: mungovan,
+      image: mungo,
     },
     {
       title: "Meme-Dashboard",
