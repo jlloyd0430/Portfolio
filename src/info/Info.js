@@ -5,6 +5,7 @@ import cilica from "../img/Cilica.jpeg";
 import pdf from "../img/resume3.png";
 import meme from "../img/memegen.jpeg";
 import mungo from "../img/mungovan.jpeg";
+import yarn from "../img/yarn.JPG";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -105,34 +106,46 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
+      title: "yarn.solitions",
+      live: "https://yarn-solution.onrender.com ",
+      source: "https://github.com/jlloyd0430/Yarn.solutions",
+      image: yarn,
+      info: "A C.R.U.D MERN fullstack Web Service, using user authentication login, and peer to peer messaging with socket.io,",
+    },
+    {
       title: "Space-Mission",
       live: "https://space-mission-xuzu.onrender.com", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/jlloyd0430/Space-Mission", // this should be a link to the **repository** of the project, where the code is hosted.
       image: mcu,
+      info: "a front-end React application about the most recent mission to mars,",
     },
     {
-      title: "Cilica | Blog-app",
+      title: "Cilica.xyz | Blog-app",
       live: "https://cilica-front-end.onrender.com/ ",
       source: "https://github.com/jlloyd0430/Cilica.io-front-end",
       image: cilica,
+      info: "A MERN fullstack Web application where users to post, edit, search, and delete blog post.",
     },
     {
       title: "Crypto-Search-App",
       live: " https://crypto-search-app.onrender.com/",
       source: "https://github.com/jlloyd0430/Crypto-App",
       image: crypto,
+      info: "A Cryptocurrency API for live token prices and more",
     },
     {
       title: "Mungovan Trucking",
       live: " https://www.mungovan.land/",
       source: "https://github.com/jlloyd0430/Mungovan-Trucking",
       image: mungo,
+      info: "a front-end web application written in React Native made for a Trucking Company in New England. Utilizing sending forms and an address search tool.",
     },
     {
       title: "Meme-Dashboard",
       live: " https://meme-maker-rzg7.onrender.com/",
       source: "https://github.com/jlloyd0430/MemeMaker",
       image: meme,
+      info: "randomly generated memes",
     },
   ],
 
