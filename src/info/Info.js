@@ -113,42 +113,42 @@ export const info = {
       live: "https://yarn-solution.onrender.com ",
       source: "https://github.com/jlloyd0430/Yarn.solutions",
       image: yarn,
-      info: "Presenting a dynamic MERN full-stack Web Service. This project includes user authentication login, real-time peer-to-peer messaging with socket.io, and seamless integration of Stripe for secure payments. I utilized MongoDB as the database techn to handle and store user data.",  
+      info: "A dynamic MERN full-stack Web Service. This project includes user authentication login, real-time peer-to-peer messaging with socket.io, and seamless integration of Stripe for secure payments. I utilized MongoDB as the database techn to handle and store user data.",
     },
     {
       title: "Space-Mission",
       live: "https://space-mission-xuzu.onrender.com", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/jlloyd0430/Space-Mission", // this should be a link to the **repository** of the project, where the code is hosted.
       image: mcu,
-      info: "This front-end React project utilizes NASA's API to fetch and display the latest Mars rover images",
+      info: "This front-end React project utilizes NASA's API to fetch and display the latest Mars rover images.",
     },
     {
       title: "Cilica.xyz | Blog-app",
       live: "https://cilica-front-end.onrender.com/ ",
       source: "https://github.com/jlloyd0430/Cilica.io-front-end",
       image: cilica,
-      info: "a MERN full-stack web application allowing users to seamlessly post, edit, search, and delete blog posts",
+      info: "A MERN full-stack web application allowing users to seamlessly post, edit, search, and delete blog posts.",
     },
     {
       title: "Crypto-Search-App",
       live: " https://crypto-search-app.onrender.com/",
       source: "https://github.com/jlloyd0430/Crypto-App",
       image: crypto,
-      info: "a powerful Cryptocurrency API designed to provide live token prices and additional data.",
+      info: "A powerful Cryptocurrency API designed to provide live token prices and additional data.",
     },
     {
       title: "Mungovan Trucking",
       live: " https://www.mungovan.land/",
       source: "https://github.com/jlloyd0430/Mungovan-Trucking",
       image: mungo,
-      info: "a a React Native-based front-end web application tailored for a Trucking Company in New England, this application features form submission functionality and an efficient address search tool."
+      info: "A React Native-based front-end web application tailored for a Trucking Company in New England, this application features form submission functionality and an efficient address search tool.",
     },
     {
       title: "Meme-Dashboard",
       live: " https://meme-maker-rzg7.onrender.com/",
       source: "https://github.com/jlloyd0430/MemeMaker",
       image: meme,
-      info: "randomly generated memes",
+      info: "Randomly generated memes.",
     },
   ],
 
