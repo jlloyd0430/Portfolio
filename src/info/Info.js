@@ -106,7 +106,7 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
-      title: "yarn.solitions",
+      title: "yarn.solutions",
       live: "https://yarn-solution.onrender.com ",
       source: "https://github.com/jlloyd0430/Yarn.solutions",
       image: yarn,
