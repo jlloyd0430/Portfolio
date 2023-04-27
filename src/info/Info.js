@@ -113,7 +113,7 @@ export const info = {
       live: "https://yarn-solution.onrender.com ",
       source: "https://github.com/jlloyd0430/Yarn.solutions",
       image: yarn,
-      info: Presenting a dynamic MERN full-stack Web Service. This project includes user authentication login, real-time peer-to-peer messaging with socket.io, and seamless integration of Stripe for secure payments. I utilized MongoDB as the database techn to handle and store user data.",  
+      info: "Presenting a dynamic MERN full-stack Web Service. This project includes user authentication login, real-time peer-to-peer messaging with socket.io, and seamless integration of Stripe for secure payments. I utilized MongoDB as the database techn to handle and store user data.",  
     },
     {
       title: "Space-Mission",
