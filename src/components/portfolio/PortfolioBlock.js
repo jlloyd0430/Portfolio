@@ -3,7 +3,7 @@ import IconLink from "./IconLink";
 import { Box } from "@mui/material";
 
 function PortfolioBlock(props) {
-  const { image, live, source, title } = props;
+  const { image, live, source, title, info } = props;
   return (
     <Box
       display={"flex"}
@@ -34,6 +34,9 @@ function PortfolioBlock(props) {
         </Box>
         <Box p={1} border={"2px solid black"} borderRadius={"25px"}>
           <IconLink link={source} title={"Source Code"} icon={"fa fa-code"} />
+        </Box>
+        <Box p={1} border={"2px solid black"} borderRadius={"15px"}>
+          <IconLink link={info} title={"info"} icon={"fa fa-code"} />
         </Box>
       </Box>
     </Box>
