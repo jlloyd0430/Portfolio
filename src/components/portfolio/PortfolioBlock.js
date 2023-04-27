@@ -36,7 +36,6 @@ function PortfolioBlock(props) {
           <IconLink link={source} title={"Source Code"} icon={"fa fa-code"} />
         </Box>
         <Box p={1} border={"2px solid black"} borderRadius={"15px"}>
-          <IconLink link={info} />
           <div>
             {info}
           </div>
