@@ -109,11 +109,11 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
-      title: "yarn.solutions",
+      title: "Freelance Marketplace",
       live: "https://yarn-solution.onrender.com ",
       source: "https://github.com/jlloyd0430/Yarn.solutions",
       image: yarn,
-      info: "A C.R.U.D MERN fullstack Web Service, using user authentication login, and peer to peer messaging with socket.io,",
+      info: "A C.R.U.D MERN fullstack Web Service, using user authentication login, and peer to peer messaging with socket.io,also added Stripe as a payment rail",
     },
     {
       title: "Space-Mission",
