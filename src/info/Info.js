@@ -113,35 +113,35 @@ export const info = {
       live: "https://yarn-solution.onrender.com ",
       source: "https://github.com/jlloyd0430/Yarn.solutions",
       image: yarn,
-      info: "A C.R.U.D MERN fullstack Web Service, using user authentication login, and peer to peer messaging with socket.io,also added Stripe as a payment rail",
+      info: Presenting a dynamic MERN full-stack Web Service. This project includes user authentication login, real-time peer-to-peer messaging with socket.io, and seamless integration of Stripe for secure payments. I utilized MongoDB as the database techn to handle and store user data.",  
     },
     {
       title: "Space-Mission",
       live: "https://space-mission-xuzu.onrender.com", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/jlloyd0430/Space-Mission", // this should be a link to the **repository** of the project, where the code is hosted.
       image: mcu,
-      info: "a front-end React application about the most recent mission to mars,",
+      info: "This front-end React project utilizes NASA's API to fetch and display the latest Mars rover images",
     },
     {
       title: "Cilica.xyz | Blog-app",
       live: "https://cilica-front-end.onrender.com/ ",
       source: "https://github.com/jlloyd0430/Cilica.io-front-end",
       image: cilica,
-      info: "A MERN fullstack Web application where users to post, edit, search, and delete blog post.",
+      info: "a MERN full-stack web application allowing users to seamlessly post, edit, search, and delete blog posts",
     },
     {
       title: "Crypto-Search-App",
       live: " https://crypto-search-app.onrender.com/",
       source: "https://github.com/jlloyd0430/Crypto-App",
       image: crypto,
-      info: "A Cryptocurrency API for live token prices and more",
+      info: "a powerful Cryptocurrency API designed to provide live token prices and additional data.",
     },
     {
       title: "Mungovan Trucking",
       live: " https://www.mungovan.land/",
       source: "https://github.com/jlloyd0430/Mungovan-Trucking",
       image: mungo,
-      info: "a front-end web application written in React Native made for a Trucking Company in New England. Utilizing sending forms and an address search tool.",
+      info: "a a React Native-based front-end web application tailored for a Trucking Company in New England, this application features form submission functionality and an efficient address search tool."
     },
     {
       title: "Meme-Dashboard",
