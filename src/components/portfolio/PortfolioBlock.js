@@ -37,6 +37,9 @@ function PortfolioBlock(props) {
         </Box>
         <Box p={1} border={"2px solid black"} borderRadius={"15px"}>
           <IconLink link={info} title={"info"} />
+          <div>
+            {info}
+          </div>
         </Box>
       </Box>
     </Box>
