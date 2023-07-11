@@ -80,6 +80,7 @@ export const info = {
       "bootstrap",
       "html5",
       "css3",
+      "UI/UX",
       "figma",
       "excell",
       "Tailwind css",
