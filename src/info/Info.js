@@ -1,4 +1,4 @@
-import self from "../img/SappySeal.jpeg";
+import self from "../img/horizon.JPG";
 import mcu from "../img/space-mission.jpeg";
 import crypto from "../img/crypto.jpeg";
 import cilica from "../img/Cilica.jpeg";
