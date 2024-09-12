@@ -129,7 +129,7 @@ export const info = {
     },
     {
       title: "Meme-Dashboard",
-      live: " https://meme-maker-rzg7.onrender.com/",
+      live: "https://galacticats-meme-machine.onrender.com/",
       source: "https://github.com/jlloyd0430/MemeMaker",
       image: meme,
       info: "Randomly generated memes.",
