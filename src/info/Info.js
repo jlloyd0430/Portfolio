@@ -5,7 +5,7 @@ import cilica from "../img/Cilica.jpeg";
 import pdf from "../img/resume3.png";
 import meme from "../img/memegen.jpeg";
 import mungo from "../img/mungovan.jpeg";
-import yarn from "../img/yarn.JPG";
+import dogepond from "../img/dogepond.png";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -113,7 +113,7 @@ export const info = {
       title: "Doginal app",
       live: "https://dogepond.com",
       source: "https://github.com/jlloyd0430/Dogepond",
-      image: yarn,
+      image: dogepond,
       info: "A dynamic MERN full-stack Web Service. This project includes user authentication login in both discord and email with bcrypt encryption, full C.R.U.D functionality for users can create edit and delete post. I utilized MongoDB as the database technology to handle and store user data, and created governance, snapshot, deploy and minting tools using a dogecoin node and various APIs, connect wallet functionality for payment system,and different market analytics/data",
     },
     {
