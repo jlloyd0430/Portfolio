@@ -110,11 +110,11 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
-      title: "Freelance Marketplace",
-      live: "https://yarn-solution.onrender.com ",
-      source: "https://github.com/jlloyd0430/Yarn.solutions",
+      title: "Doginal app",
+      live: "https://dogepond.com",
+      source: "https://github.com/jlloyd0430/Dogepond",
       image: yarn,
-      info: "A dynamic MERN full-stack Web Service. This project includes user authentication login, real-time peer-to-peer messaging with socket.io, and seamless integration of Stripe for secure payments. I utilized MongoDB as the database technology to handle and store user data.",
+      info: "A dynamic MERN full-stack Web Service. This project includes user authentication login in both discord and email with bcrypt encryption, full C.R.U.D functionality for users can create edit and delete post. I utilized MongoDB as the database technology to handle and store user data, and created governance, snapshot, deploy and minting tools using a dogecoin node and various APIs, connect wallet functionality for payment system,and different market analytics/data",
     },
     {
       title: "Space-Mission",
